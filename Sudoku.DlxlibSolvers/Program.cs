@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Sudoku.NorvigSolver
+namespace Sudoku.DlxlibSolvers
 {
     class Program
     {
